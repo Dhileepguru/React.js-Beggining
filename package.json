@@ -1,0 +1,14 @@
+{
+  "name": "react.js-beggining",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
